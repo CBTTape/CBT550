@@ -1,0 +1,36 @@
+2023-04-03 01:06:53.253762 - Initialized conversion of CBT550
+2023-04-03 01:06:53.430876 - Received CBT.V504.FILE550.PDS from FILE550.XMI 
+2023-04-03 01:06:53.433296 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:06:53.434789 - Found $$NOTE$$.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$$NOTE$$
+2023-04-03 01:06:53.435744 - Found $$NOTE$1.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$$NOTE$1
+2023-04-03 01:06:53.436792 - Found $$READ$$.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$$READ$$
+2023-04-03 01:06:53.438093 - Found $MENDDO1.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$MENDDO1
+2023-04-03 01:06:53.439062 - Found $MENDDO2.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$MENDDO2
+2023-04-03 01:06:53.440312 - Found $MGBLDEF.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$MGBLDEF
+2023-04-03 01:06:53.441306 - Found $MGFNAME.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$MGFNAME
+2023-04-03 01:06:53.442257 - Found $MGFNBR.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$MGFNBR
+2023-04-03 01:06:53.443196 - Found $MGPNAME.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/$MGPNAME
+2023-04-03 01:06:53.444384 - Found @FILE550.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/@FILE550
+2023-04-03 01:06:53.445372 - Found AFTER.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/AFTER
+2023-04-03 01:06:53.446333 - Found BEGTEST.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/BEGTEST
+2023-04-03 01:06:53.447683 - Found DO.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/DO
+2023-04-03 01:06:53.448672 - Found DOCUMENT.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/DOCUMENT
+2023-04-03 01:06:53.449957 - Found DOEXIT.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/DOEXIT
+2023-04-03 01:06:53.450924 - Found DONEXT.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/DONEXT
+2023-04-03 01:06:53.452215 - Found ELSE.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ELSE
+2023-04-03 01:06:53.453146 - Found ELSEDO.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ELSEDO
+2023-04-03 01:06:53.454467 - Found ELSEIF.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ELSEIF
+2023-04-03 01:06:53.455482 - Found ENDAFTER.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDAFTER
+2023-04-03 01:06:53.456467 - Found ENDELSE.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDELSE
+2023-04-03 01:06:53.457735 - Found ENDEVERY.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDEVERY
+2023-04-03 01:06:53.458657 - Found ENDFIRST.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDFIRST
+2023-04-03 01:06:53.459600 - Found ENDIF.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDIF
+2023-04-03 01:06:53.460912 - Found ENDO.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDO
+2023-04-03 01:06:53.461899 - Found ENDTEST.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/ENDTEST
+2023-04-03 01:06:53.462806 - Found EQUATE.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/EQUATE
+2023-04-03 01:06:53.463961 - Found EVERY.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/EVERY
+2023-04-03 01:06:53.464905 - Found EXECUTE.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/EXECUTE
+2023-04-03 01:06:53.465816 - Found FIRST.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/FIRST
+2023-04-03 01:06:53.466753 - Found IF.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/IF
+2023-04-03 01:06:53.467730 - Found OMGBLDEF.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/OMGBLDEF
+2023-04-03 01:06:53.468886 - Found THENDO.txt (text/plain) in CBT.V504.FILE550.PDS, moved to PDS/THENDO
